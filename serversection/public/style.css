@@ -1,0 +1,77 @@
+
+body
+{
+  background:url(home.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.card
+{
+  background-color: rgba(247,246,231,0.4) !important;
+  margin-left:42%;
+  margin-top:10%;
+  position:relative;
+}
+.return
+{
+  color:black;
+  text-decoration: none;
+  position:relative;
+  left:130px;
+  font-family: 'Noto Sans', sans-serif;
+ font-family: 'PT Sans', sans-serif;
+
+
+}
+.returns
+{
+    color:black;
+    text-decoration: none;
+    position:relative;
+    left:105px;
+    font-family: 'Noto Sans', sans-serif;
+   font-family: 'PT Sans', sans-serif;
+}
+.returns:hover
+{
+  text-decoration: underline;
+  color:black;
+}
+.google
+{
+  background-color: rgba(247,246,231,0.4);
+}
+.google:hover{
+  border:1px solid black;
+}
+.return:hover
+{
+  text-decoration: underline;
+  color:black;
+}
+.center{
+  text-align: center;
+}
+button
+{
+
+ background-color: rgba(247,246,231) !important;
+ color:black !important;
+ border-color:rgba(247,246,231,0.2) !important;
+
+}
+
+.form-group
+{
+  margin-bottom: 20px;
+}
+
+.card-title
+{
+  text-align: center;
+  padding-bottom: 30px;
+  color:rgb(60, 60, 60);
+  font-family: 'Crimson Text', serif;
+}
